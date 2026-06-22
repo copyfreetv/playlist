@@ -217,6 +217,8 @@ https://live.livedoomovies.com:4433/api/hls/live/82290/playlist.m3u8
 
 #EXTINF:-1 group-title="MONO Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/MonomaxSportsTV-logo.png",MonoSports 1
 https://yyi7tewa2x.3ppnkog.com/xstream/monomax-1/playlist.m3u8
+#EXTINF:-1 group-title="MONO Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/MonomaxSportsTV-logo.png",MonoSports 1
+https://raw.githubusercontent.com/copyfreetv/m3u8/refs/heads/main/FS1.m3u8
 #EXTINF:-1 group-title="MONO Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/MonomaxSportsTV-logo.png",MonoSports 2
 https://yyi7tewa2x.3ppnkog.com/xstream/monomax-2/playlist.m3u8
 #EXTINF:-1 group-title="MONO Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/MonomaxSportsTV-logo.png",MonoSports 3
